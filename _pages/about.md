@@ -18,8 +18,8 @@ Low Power Wide Area Networks(LPWAN), wireless communication and sensing, wireles
 Conference papers
 ======
 [[INFOCOM'21](https://infocom2021.ieee-infocom.org/)] **“Jamming of LoRa PHY and Countermeasure”**
-**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, In IEEE INFOCOM, Virtual Conference, 10-13 May 2021.
-[Pdf](/file/paper1.pdf)
+**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, In IEEE INFOCOM, Virtual Conference, 10-13 May 2021. <br/>
+[Pdf](/homepage/files/paper1.pdf)
 
 [[ICNP'20](https://icnp20.cs.ucr.edu/)] **"CloakLoRa: A Covert Channel over LoRa PHY"**
  **Ningning Hou**,Yuanqing Zheng, In IEEE ICNP, Madrid, Spain, Oct 13-16, 2020.Acceptance Rate:16.8% (31/184)
