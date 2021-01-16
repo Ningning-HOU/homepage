@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student at the Hong Kong Polytechnic University. My surpervisor is [Prof. Yuanqing Zheng](https://www.comp.polyu.edu.hk/en-us/staffs/detail/3847).
+My name is Hou ningning. I am a Ph.D student at the Hong Kong Polytechnic University. My surpervisor is [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/).
 
 A data-driven personal website
 ======
