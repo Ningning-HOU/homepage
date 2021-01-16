@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is HOU ningning. I am a Ph.D. student at the Hong Kong Polytechnic University. My surpervisor is [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received my B.Eng. degree from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/) in 2017. My research interests includes Low Power Wide Area Networks(LPWAN), wireless communication and sensing, wireless networking, and Internet of Things.
+My name is HOU ningning. I am a Ph.D. student at the Hong Kong Polytechnic University. My surpervisor is [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received my B.Eng. degree from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/) in 2017. 
 
 Research Interets
 ======
