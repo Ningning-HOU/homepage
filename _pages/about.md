@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wellcom to Ningning's homepage.
+I am a Ph.D student at the Hong Kong Polytechnic University. My surpervisor is [Prof. Yuanqing Zheng](https://www.comp.polyu.edu.hk/en-us/staffs/detail/3847).
 
 A data-driven personal website
 ======
