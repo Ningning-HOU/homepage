@@ -6,16 +6,18 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  ======
+  ------
 ---
 
-My name is HOU ningning. I am a Ph.D. student at the Hong Kong Polytechnic University. My surpervisor is [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received my B.Eng. degree from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/) in 2017. 
+My name is HOU ningning. I am a Ph.D. student at the Hong Kong Polytechnic University under surpervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/) in 2017. <br/><br/>
 
 
 
 Research Interets
 ======
 ------
-Low Power Wide Area Networks(LPWAN), wireless communication and sensing, wireless networking
+Low Power Wide Area Networks(LPWAN), wireless communication and sensing, wireless networking <br/><br/>
 
 
 
@@ -29,7 +31,7 @@ Conference papers
 
 [[ICNP'20](https://icnp20.cs.ucr.edu/)] **"CloakLoRa: A Covert Channel over LoRa PHY"**
  **Ningning Hou**,Yuanqing Zheng, In IEEE ICNP, Madrid, Spain, Oct 13-16, 2020.Acceptance Rate:16.8% (31/184)<br/>
-[[PDF](/homepage/files/ICNP_camera_ready.pdf)] [[Presentation Video](/homepage/files/ICNP-CloakLoRa.mp4)]
+[[PDF](/homepage/files/ICNP_camera_ready.pdf)] [[Presentation Video](/homepage/files/ICNP-CloakLoRa.mp4)]<br/><br/>
 
 
 
@@ -38,7 +40,7 @@ Demo
 ------
 [[INFOCOM'20](https://infocom2021.ieee-infocom.org/)] **"CLoRa: A Covert Channel over LoRa PHY"**
 **Ningning Hou**, Yuanqing Zheng, In IEEE INFOCOM, Beijing, China, April 2020. <br/>
-[[PDF](/homepage/files/infocom_demo-camera ready version.pdf)]
+[[PDF](/homepage/files/infocom_demo-camera ready version.pdf)]<br/><br/>
 
 
 Teaching Experience
