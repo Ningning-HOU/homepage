@@ -6,8 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  ======
-  ------
 ---
 
 My name is HOU ningning. I am a Ph.D. student at the Hong Kong Polytechnic University under surpervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications(BUPT) in 2017. 
