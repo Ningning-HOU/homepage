@@ -10,24 +10,34 @@ redirect_from:
 
 My name is HOU ningning. I am a Ph.D. student at the Hong Kong Polytechnic University. My surpervisor is [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received my B.Eng. degree from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/) in 2017. 
 
+
+
 Research Interets
 ======
 Low Power Wide Area Networks(LPWAN), wireless communication and sensing, wireless networking
+
+
 
 
 Conference papers
 ======
 [[INFOCOM'21](https://infocom2021.ieee-infocom.org/)] **“Jamming of LoRa PHY and Countermeasure”**
 **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, In IEEE INFOCOM, Virtual Conference, 10-13 May 2021. <br/>
-[Pdf](/homepage/files/paper1.pdf)
+[[PDF](/homepage/files/jamming-ready.pdf)] 
 
 [[ICNP'20](https://icnp20.cs.ucr.edu/)] **"CloakLoRa: A Covert Channel over LoRa PHY"**
- **Ningning Hou**,Yuanqing Zheng, In IEEE ICNP, Madrid, Spain, Oct 13-16, 2020.Acceptance Rate:16.8% (31/184)
+ **Ningning Hou**,Yuanqing Zheng, In IEEE ICNP, Madrid, Spain, Oct 13-16, 2020.Acceptance Rate:16.8% (31/184)<br/>
+[[PDF](/homepage/files/jamming-ready.pdf)] [[Presentation Video](/homepage/files/jamming-ready.pdf)]
+
+
 
 Demo
 ======
 [[INFOCOM'20](https://infocom2021.ieee-infocom.org/)] **"CLoRa: A Covert Channel over LoRa PHY"**
-**Ningning Hou**, Yuanqing Zheng, In IEEE INFOCOM, Beijing, China, April 2020.
+**Ningning Hou**, Yuanqing Zheng, In IEEE INFOCOM, Beijing, China, April 2020. <br/>
+[[Demo Video](/homepage/files/jamming-ready.pdf)]
+
+
 
 Site-wide configuration
 ------
