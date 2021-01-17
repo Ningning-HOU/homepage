@@ -44,7 +44,7 @@ Demo
 Teaching Experience
 ======
 ------
-Teaching Assistant, COMP 4334 Principles and Practice of Internet Security, 2020 Fall <br/>
+Teaching Assistant, COMP4334 Principles and Practice of Internet Security, 2020 Fall <br/>
 Teaching Assistant, COMP5327 Wireless Networking and Mobile Computing, 2020 Spring <br/>
 Teaching Assistant, COMP5311 Internet Infrastructure and Protocols, 2019 Fall <br/>
 Teaching Assistant, COMP1011 Programming Fundamentals, 2019 Spring <br/>
