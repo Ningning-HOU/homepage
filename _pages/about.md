@@ -53,7 +53,7 @@ Journal papers
 
 [[TOSN]] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”** <br/> 
 **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, IEEE/ACM Transactions on Sensor Networks (TOSN), Aug. 2022. <br/>
-[[PDF](/homepage/files/MALoRa_JPub.pdf)] [[Presentation Video](/homepage/files/Infocom-MALoRa.mp4)]
+[[PDF](/homepage/files/MALoRa_JPub.pdf)]
 
 [[TOSN]] **“PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities”** <br/>
 Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, IEEE/ACM Transactions on Sensor Networks (TOSN), Jun. 2022. <br/>
@@ -69,6 +69,12 @@ Demo
 [[INFOCOM'20](https://infocom2021.ieee-infocom.org/)] **"CLoRa: A Covert Channel over LoRa PHY"**
 **Ningning Hou**, Yuanqing Zheng, In IEEE INFOCOM, Beijing, China, April 2020. <br/>
 [[PDF](/homepage/files/infocom_demo-camera ready version.pdf)]
+
+Project
+======
+------
+**"Auto Coffee Machine Robot"** In this project, a robot arm makes a cup of coffee for you on your order automatically! <br/>
+Explore [[here!](/homepage/files/Smart Coffee Robot.mp4)]
 
 
 Teaching Experience
