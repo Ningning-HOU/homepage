@@ -47,7 +47,7 @@ Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, New Orlea
 Journal papers
 ======
 ------
-[*TON*] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
+[`TON`] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
  **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Sep. 2022 <br/>
 [[PDF](/homepage/files/CloakLoRa_JPub.pdf)] 
 
