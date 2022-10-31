@@ -23,23 +23,23 @@ Conference papers
 ======
 ------
 [[SenSys'22](https://sensys.acm.org/2022/)] **“HyLink: Towards High Throughput LPWANs with
-LoRa Compatible Communication”**, 
+LoRa Compatible Communication”** <br/>
 Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, In ACM SenSys, Boston, United States, 6-9 Nov 2022. <br/>
 [[PDF](/homepage/files/HyLink_SenSys_22__Camera_ready_.pdf)]
 
-[[INFOCOM'22](https://infocom2022.ieee-infocom.org/)] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”**, 
+[[INFOCOM'22](https://infocom2022.ieee-infocom.org/)] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”** <br/> 
 **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, In IEEE INFOCOM, Virtual Conference, 2-5 May 2022. <br/>
 [[PDF](/homepage/files/Infocom__2022_camera_ready_Adobe.pdf)] [[Presentation Video](/homepage/files/ICNP-CloakLoRa.mp4)]
 
-[[MobiCom'21](https://www.sigmobile.org/mobicom/2021/)] **“PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities”**, 
+[[MobiCom'21](https://www.sigmobile.org/mobicom/2021/)] **“PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities”** <br/>
 Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, New Orleans, United States, March 28 - April 1, 2022. <br/>
 [[PDF](/homepage/files/LoRa_MobiCom2021__Camera_ready_.pdf)] [[1-min Pitch](/homepage/files/PCube-1m-pitch.mp4)]
 
-[[INFOCOM'21](https://infocom2021.ieee-infocom.org/)] **“Jamming of LoRa PHY and Countermeasure”**, 
+[[INFOCOM'21](https://infocom2021.ieee-infocom.org/)] **“Jamming of LoRa PHY and Countermeasure”** <br/>
 **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, In IEEE INFOCOM, Virtual Conference, 10-13 May 2021. <br/>
 [[PDF](/homepage/files/Jamming_ready.pdf)] [[Presentation Video](/homepage/files/INFOCOM-21-Jamming-small.mp4)]
 
-[[ICNP'20](https://icnp20.cs.ucr.edu/)] **"CloakLoRa: A Covert Channel over LoRa PHY"**, 
+[[ICNP'20](https://icnp20.cs.ucr.edu/)] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
  **Ningning Hou**,Yuanqing Zheng, In IEEE ICNP, Madrid, Spain, Oct 13-16, 2020.Acceptance Rate:16.8% (31/184)<br/>
 [[PDF](/homepage/files/ICNP_camera_ready.pdf)] [[Presentation Video](/homepage/files/ICNP-CloakLoRa.mp4)]
 
