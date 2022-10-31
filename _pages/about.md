@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is HOU ningning (侯宁宁). I am a Ph.D. student at the Hong Kong Polytechnic University under surpervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications(BUPT) in 2017. 
+My name is HOU ningning (侯宁宁). I obtained my Ph.D. degree in 2021 from The Hong Kong Polytechnic University under surpervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications(BUPT) in 2017. 
 
 
 
 Research Interets
 ======
 ------
-Low Power Wide Area Networks(LPWAN), wireless communication and sensing, wireless networking 
+Low Power Wide Area Networks(LPWAN), Internet-of-Things, Wireless Sensing and Networking, and Wireless Security
 
 
 
@@ -23,6 +23,10 @@ Low Power Wide Area Networks(LPWAN), wireless communication and sensing, wireles
 Conference papers
 ======
 ------
+[[INFOCOM'22](https://infocom2022.ieee-infocom.org/)] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”**
+**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, In IEEE INFOCOM, Virtual Conference, 2-5 May 2022. <br/>
+[[PDF](/homepage/files/Infocom__2022_camera_ready_Adobe.pdf)]
+
 [[INFOCOM'21](https://infocom2021.ieee-infocom.org/)] **“Jamming of LoRa PHY and Countermeasure”**
 **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, In IEEE INFOCOM, Virtual Conference, 10-13 May 2021. <br/>
 [[PDF](/homepage/files/Jamming_ready.pdf)] 
