@@ -95,9 +95,9 @@ PC member of ICPADS 2022 <br/>
 Selected Awards
 ======
 ------
-[People’s Choice Award ()]for the Three Minute Thesis (3MT) Competition (2021)
-PolyU Annual Research Day (First prize in 2018, Second prize in 2019)
-National Scholarship for Encouragement (2014-2016)
-The Xingda Scholarship (2014-2016)
-Outstanding Graduates & Dissertation Award of Beijing University of Posts and Telecommunications (2013)
+[People’s Choice Award (/homepage/files/3MT.pdf)]for the [Three Minute Thesis (3MT) Competition](https://www.polyu.edu.hk/feng/publications/vibrant/issue-2/3-minute-thesis-competition/) (2021) <br/>
+PolyU Annual Research Day (First prize in 2018, Second prize in 2019) <br/>
+National Scholarship for Encouragement (2014-2016) <br/>
+The Xingda Scholarship (2014-2016) <br/>
+Outstanding Graduates & Dissertation Award of Beijing University of Posts and Telecommunications (2013) <br/>
 
