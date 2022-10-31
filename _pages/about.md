@@ -47,19 +47,19 @@ Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, New Orlea
 Journal papers
 ======
 ------
-[`**TON**`] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
+[**TON**] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
  **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Sep. 2022 <br/>
 [[PDF](/homepage/files/CloakLoRa_JPub.pdf)] 
 
-[[TOSN]] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”** <br/> 
+[**TOSN**] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”** <br/> 
 **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, IEEE/ACM Transactions on Sensor Networks (TOSN), Aug. 2022. <br/>
 [[PDF](/homepage/files/MALoRa_JPub.pdf)]
 
-[[TOSN]] **“PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities”** <br/>
+[**TOSN**] **“PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities”** <br/>
 Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, IEEE/ACM Transactions on Sensor Networks (TOSN), Jun. 2022. <br/>
 [[PDF](/homepage/files/PCube_JPub.pdf)] 
 
-[[TOSN]] **“Jamming of LoRa PHY and Countermeasure”** <br/>
+[**TOSN**] **“Jamming of LoRa PHY and Countermeasure”** <br/>
 **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, submitted to IEEE/ACM Transactions on Sensor Networks (TOSN), **under review**. <br/>
 [[PDF](/homepage/files/rewrite_Jamming_TOSN.pdf)] 
 
@@ -84,3 +84,20 @@ Teaching Assistant, COMP4334 Principles and Practice of Internet Security, 2020 
 Teaching Assistant, COMP5327 Wireless Networking and Mobile Computing, 2020 Spring <br/>
 Teaching Assistant, COMP5311 Internet Infrastructure and Protocols, 2019 Fall <br/>
 Teaching Assistant, COMP1011 Programming Fundamentals, 2019 Spring <br/>
+
+Professional Services
+======
+------
+Reviewer of conferences: IEEE INFOCOM 2019~2022, SenSys 2019~2022, IoTDI 2021 <br/>
+Reviewer of journals: ACM ToSN, TWC <br/>
+PC member of ICPADS 2022 <br/>
+
+Selected Awards
+======
+------
+[People’s Choice Award ()]for the Three Minute Thesis (3MT) Competition (2021)
+PolyU Annual Research Day (First prize in 2018, Second prize in 2019)
+National Scholarship for Encouragement (2014-2016)
+The Xingda Scholarship (2014-2016)
+Outstanding Graduates & Dissertation Award of Beijing University of Posts and Telecommunications (2013)
+
