@@ -74,7 +74,7 @@ Project
 ======
 ------
 **"Auto Coffee Machine Robot"** In this project, a robot arm makes a cup of coffee for you on your order automatically! <br/>
-Explore [[here!](/homepage/files/Smart Coffee Robot.mp4)]
+Explore [[here!](/homepage/files/Smart_Coffee_Robot.mp4)]
 
 
 Teaching Experience
