@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "HOU Ningning"
 title_separator          : "-"
 name                     : &name "HOU Ningning"
-description              : &description "Ph.D student"
+description              : &description "Postdoctoral Fellow"
 url                      : "https://ningning-hou.github.io/homepage/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "HOU Ningning"
   avatar           : "profile.jpg"
-  bio              : "Ph.D student"
+  bio              : "Postdoctoral Fellow"
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : 
   google_plus      :
