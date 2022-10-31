@@ -83,7 +83,7 @@ author:
   name             : "HOU Ningning"
   avatar           : "profile.jpg"
   bio              : "Postdoctoral Fellow"
-  location         : "QT404, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China"
+  location         : "QT404, PolyU"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=zpy_vEsAAAAJ"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-0220-1274"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
