@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is HOU ningning (侯宁宁). I am a Postdoctoral Fellow at The Hong Kong Polytechnic University. I obtained my Ph.D. degree in 2021 from The Hong Kong Polytechnic University(PolyU) under surpervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications(BUPT) in 2017. Feel free to contact me at [ning2hou@polyu.edu.hk].
+My name is HOU ningning (侯宁宁). I am a Postdoctoral Fellow at The Hong Kong Polytechnic University. I obtained my Ph.D. degree in 2021 from The Hong Kong Polytechnic University(PolyU) under surpervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications(BUPT) in 2017. <br/>
+Feel free to contact me at [ning2hou@polyu.edu.hk].
 
 
 
