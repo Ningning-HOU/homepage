@@ -23,6 +23,10 @@ Low Power Wide Area Networks(LPWAN), Internet-of-Things, Wireless Sensing and Ne
 Conference papers
 ======
 ------
+[[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
+Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, **“Conditionally accepted to ACM MobiCom”**, Madrid, Spain, Oct. 2023. <br/>
+[[PDF](/homepage/files/HyLink_SenSys_22__Camera_ready_.pdf)]
+
 [[SenSys'22](https://sensys.acm.org/2022/)] **“HyLink: Towards High Throughput LPWANs with
 LoRa Compatible Communication”** <br/>
 Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, In ACM SenSys, Boston, United States, 6-9 Nov 2022. <br/>
