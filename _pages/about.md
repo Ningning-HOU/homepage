@@ -53,15 +53,15 @@ Journal papers
 [[PDF](/homepage/files/CloakLoRa_JPub.pdf)] 
 
 [**TOSN**] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”** <br/> 
-**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, IEEE/ACM Transactions on Sensor Networks (TOSN), Aug. 2022. <br/>
+**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, ACM Transactions on Sensor Networks (TOSN), Aug. 2022. <br/>
 [[PDF](/homepage/files/MALoRa_JPub.pdf)]
 
 [**TOSN**] **“PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities”** <br/>
-Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, IEEE/ACM Transactions on Sensor Networks (TOSN), Jun. 2022. <br/>
+Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, ACM Transactions on Sensor Networks (TOSN), Jun. 2022. <br/>
 [[PDF](/homepage/files/PCube_JPub.pdf)] 
 
 [**TOSN**] **“Jamming of LoRa PHY and Countermeasure”** <br/>
-**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, submitted to IEEE/ACM Transactions on Sensor Networks (TOSN), **under review**. <br/>
+**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, submitted to ACM Transactions on Sensor Networks (TOSN), **under review**. <br/>
 [[PDF](/homepage/files/rewrite_Jamming_TOSN.pdf)] 
 
 Demo
