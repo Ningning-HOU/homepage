@@ -72,7 +72,7 @@ Demo
 ======
 ------
 [[INFOCOM'20](https://infocom2021.ieee-infocom.org/)] **"CLoRa: A Covert Channel over LoRa PHY"**
-**Ningning Hou**, Yuanqing Zheng, In IEEE INFOCOM, Beijing, China, April 2020. <br/>
+**Ningning Hou**, Yuanqing Zheng, In IEEE INFOCOM, Beijing, China, Apr. 2020. <br/>
 [[PDF](/homepage/files/infocom_demo-camera ready version.pdf)]
 
 Project
