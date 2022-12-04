@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is HOU ningning (侯宁宁). I am a Postdoctoral Fellow at The Hong Kong Polytechnic University. I obtained my Ph.D. degree in 2021 from The Hong Kong Polytechnic University(PolyU) under surpervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications(BUPT) in 2017. <br/>
+My name is HOU ningning (侯宁宁). I am a Postdoctoral Fellow at The Hong Kong Polytechnic University. I obtained my Ph.D. degree in 2021 from The Hong Kong Polytechnic University(PolyU) under the supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications(BUPT) in 2017. <br/>
 Feel free to contact me at [ning2hou@polyu.edu.hk].
 
 
@@ -23,6 +23,10 @@ Low Power Wide Area Networks(LPWAN), Internet-of-Things, Wireless Sensing and Ne
 Conference papers
 ======
 ------
+[[INFOCOM'23](https://infocom2023.ieee-infocom.org/)] **“One Shot for All: Quick and Accurate Data Aggregation for LPWANs”** <br/> 
+**Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng, In IEEE INFOCOM, New York, United States, May 2022. <br/>
+
+
 <!--[[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
 Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, In ACM MobiCom, Madrid, Spain, Oct. 2023. <br/>-->
 
