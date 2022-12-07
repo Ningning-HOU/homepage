@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "HOU Ningning"
-  avatar           : "favorite_photo.jpg"
+  avatar           : "profile.jpg"
   bio              : "Postdoctoral Fellow"
   location         : "QT404, PolyU" 
   employer         :
@@ -171,6 +171,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  
 
 
 # Collections
