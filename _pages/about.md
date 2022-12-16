@@ -32,7 +32,7 @@ Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, In ACM MobiCom, Madr
 
 
 [[SenSys'22](https://sensys.acm.org/2022/)] **“HyLink: Towards High Throughput LPWANs with
-LoRa Compatible Communication”** <br/>
+LoRa Compatible Communication”** **（Best paper runner up）**<br/>
 Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, In ACM SenSys, Boston, United States, 6-9 Nov 2022. <br/>
 [[PDF](/homepage/files/HyLink_SenSys_22__Camera_ready_.pdf)]
 
