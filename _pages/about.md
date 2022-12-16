@@ -98,7 +98,7 @@ Professional Services
 ======
 ------
 Reviewer of conferences: IEEE INFOCOM 2019~2022, SenSys 2019~2022, IoTDI 2021 <br/>
-Reviewer of journals: ACM ToSN, TWC <br/>
+Reviewer of journals: ACM ToN, ToSN, TWC; IEEE TMC <br/>
 PC member of ICPADS 2022 <br/>
 
 Selected Awards
@@ -108,5 +108,5 @@ Selected Awards
 PolyU Annual Research Day (First prize in 2018, Second prize in 2019) <br/>
 National Scholarship for Encouragement (2014-2016) <br/>
 The Xingda Scholarship (2014-2016) <br/>
-Outstanding Graduates & Dissertation Award of Beijing University of Posts and Telecommunications (2013) <br/>
+Outstanding Graduates & Dissertation Award of Beijing University of Posts and Telecommunications (2017) <br/>
 
