@@ -27,8 +27,8 @@ Conference papers
 **Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng, In IEEE INFOCOM, New York, United States, May 2022. <br/>
 
 
-<!--[[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
-Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, In ACM MobiCom, Madrid, Spain, Oct. 2023. <br/>-->
+[[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
+Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, In ACM MobiCom, Madrid, Spain, Oct. 2023. <br/>
 
 
 [[SenSys'22](https://sensys.acm.org/2022/)] **“HyLink: Towards High Throughput LPWANs with
@@ -69,7 +69,7 @@ Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, ACM Transactions on Senso
 [[PDF](/homepage/files/PCube_JPub.pdf)] 
 
 [**TOSN**] **“Jamming of LoRa PHY and Countermeasure”** <br/>
-**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, submitted to ACM Transactions on Sensor Networks (TOSN), **under review**. <br/>
+**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, submitted to ACM Transactions on Sensor Networks (TOSN), Feb. 2023. . <br/>
 [[PDF](/homepage/files/rewrite_Jamming_TOSN.pdf)] 
 
 Demo
