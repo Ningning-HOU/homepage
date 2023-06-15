@@ -49,7 +49,7 @@ Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, New Orlea
 [[PDF](/homepage/files/Jamming_ready.pdf)] [[Presentation Video](/homepage/files/INFOCOM-21-Jamming-small.mp4)]
 
 [[ICNP'20](https://icnp20.cs.ucr.edu/)] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
- **Ningning Hou**,Yuanqing Zheng, In IEEE ICNP, Madrid, Spain, Oct 13-16, 2020.Acceptance Rate:16.8% (31/184)<br/>
+ **Ningning Hou**,Yuanqing Zheng, In IEEE ICNP, Madrid, Spain, Oct 13-16, 2020. Acceptance Rate:16.8% (31/184)<br/>
 [[PDF](/homepage/files/ICNP_camera_ready.pdf)] [[Presentation Video](/homepage/files/ICNP-CloakLoRa.mp4)]
 
 
@@ -57,7 +57,7 @@ Journal papers
 ======
 ------
 [**TON**] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
- **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Sep. 2022 <br/>
+ **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Sep. 2022. <br/>
 [[PDF](/homepage/files/CloakLoRa_JPub.pdf)] 
 
 [**TOSN**] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”** <br/> 
@@ -69,7 +69,7 @@ Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, ACM Transactions on Senso
 [[PDF](/homepage/files/PCube_JPub.pdf)] 
 
 [**TOSN**] **“Jamming of LoRa PHY and Countermeasure”** <br/>
-**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, submitted to ACM Transactions on Sensor Networks (TOSN), Feb. 2023. . <br/>
+**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, submitted to ACM Transactions on Sensor Networks (TOSN), Feb. 2023. <br/>
 [[PDF](/homepage/files/rewrite_Jamming_TOSN.pdf)] 
 
 Demo
