@@ -77,7 +77,7 @@ Demo
 ------
 [[INFOCOM'20](https://infocom2021.ieee-infocom.org/)] **"CLoRa: A Covert Channel over LoRa PHY"**
 **Ningning Hou**, Yuanqing Zheng, In IEEE INFOCOM, Beijing, China, Apr. 2020. <br/>
-[[PDF](/homepage/files/infocom_demo-camera_ready_version.pdf)]
+[[PDF](/homepage/files/Demo_Abstract_CLoRa-A_Covert_Channel_over_LoRa_PHY.pdf)]
 
 Project
 ======
@@ -99,7 +99,7 @@ Professional Services
 ------
 Reviewer of conferences: IEEE INFOCOM 2019~2022, SenSys 2019~2022, IoTDI 2021 <br/>
 Reviewer of journals: ACM ToN, ToSN, TWC; IEEE TMC <br/>
-PC member of ICPADS 2022 <br/>
+TPC member of ICPADS 2022~2023, MSN 2023 <br/>
 
 Selected Awards
 ======
