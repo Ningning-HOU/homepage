@@ -98,7 +98,7 @@ Professional Services
 ======
 ------
 Reviewer of conferences: IEEE INFOCOM 2019~2022, SenSys 2019~2022, IoTDI 2021 <br/>
-Reviewer of journals: ACM ToN, ToSN, TWC; IEEE TMC <br/>
+Reviewer of journals: ACM ToN, ToSN, TWC; IEEE TMC, TDSC <br/>
 TPC member of ICPADS 2022~2023, MSN 2023 <br/>
 
 Selected Awards
