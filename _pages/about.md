@@ -23,13 +23,13 @@ Low Power Wide Area Networks(LPWAN), Internet-of-Things, Wireless Sensing and Ne
 Conference papers
 ======
 ------
-[[INFOCOM'23](https://infocom2023.ieee-infocom.org/)] **“One Shot for All: Quick and Accurate Data Aggregation for LPWANs”** <br/> 
-**Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng, In IEEE INFOCOM, New York, United States, May 2023. <br/>
-[[PDF](/homepage/files/LoRa_Aggregation_camera ready.pdf)]
-
 [[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
-Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, Mo Li, In ACM MobiCom, Madrid, Spain, Oct. 2023. <br/>
-[[PDF](/homepage/files/XCopy_ Boosting Weak Links for Reliable LoRa Communication.pdf)]
+Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, Mo Li, In ACM MobiCom, Madrid, Spain, 2-6 Oct 2023. <br/>
+[[PDF](/homepage/files/XCopy_Boosting_Weak_Links_for_Reliable_LoRa_Communication.pdf)]
+
+[[INFOCOM'23](https://infocom2023.ieee-infocom.org/)] **“One Shot for All: Quick and Accurate Data Aggregation for LPWANs”** <br/> 
+**Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng, In IEEE INFOCOM, New York, United States, 17-20 May 2023. <br/>
+[[PDF](/homepage/files/LoRa_Aggregation_camera_ready.pdf)]
 
 [[SenSys'22](https://sensys.acm.org/2022/)] **“HyLink: Towards High Throughput LPWANs with
 LoRa Compatible Communication”** **（Best paper candidate）**<br/>
@@ -49,7 +49,7 @@ Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, New Orlea
 [[PDF](/homepage/files/Jamming_ready.pdf)] [[Presentation Video](/homepage/files/INFOCOM-21-Jamming-small.mp4)]
 
 [[ICNP'20](https://icnp20.cs.ucr.edu/)] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
- **Ningning Hou**,Yuanqing Zheng, In IEEE ICNP, Madrid, Spain, Oct 13-16, 2020. Acceptance Rate:16.8% (31/184)<br/>
+ **Ningning Hou**,Yuanqing Zheng, In IEEE ICNP, Madrid, Spain, 13-16 Oct 2020. Acceptance Rate:16.8% (31/184)<br/>
 [[PDF](/homepage/files/ICNP_camera_ready.pdf)] [[Presentation Video](/homepage/files/ICNP-CloakLoRa.mp4)]
 
 
@@ -77,7 +77,7 @@ Demo
 ------
 [[INFOCOM'20](https://infocom2021.ieee-infocom.org/)] **"CLoRa: A Covert Channel over LoRa PHY"**
 **Ningning Hou**, Yuanqing Zheng, In IEEE INFOCOM, Beijing, China, Apr. 2020. <br/>
-[[PDF](/homepage/files/infocom_demo-camera ready version.pdf)]
+[[PDF](/homepage/files/infocom_demo-camera_ready_version.pdf)]
 
 Project
 ======
