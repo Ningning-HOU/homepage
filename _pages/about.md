@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Hou Ningning (侯宁宁). I am a Postdoctoral Fellow at The Hong Kong Polytechnic University. I obtained my Ph.D. degree in 2021 from The Hong Kong Polytechnic University(PolyU) under the supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications (BUPT) in 2017. <br/>
-Feel free to contact me at [ning2hou@polyu.edu.hk].
+My name is Hou Ningning (侯宁宁). I am a Lecturer at Macquarie University(Sydney,Australia). Before joining Macquarie University, I worked as a Postdoctoral Fellow at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. degree in 2021 from PolyU under the supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications (BUPT) in 2017. <br/>
+Feel free to contact me at [ningning.hou@mq.edu.au].
 
 
 
 Research Interests
 ======
 ------
-Low Power Wide Area Networks(LPWAN), Internet-of-Things, Wireless Sensing and Networking, and Wireless Security
+Low Power Wide Area Networks(LPWANs), Internet-of-Things, Wireless Sensing and Networking, and Wireless Security
 
 
 
