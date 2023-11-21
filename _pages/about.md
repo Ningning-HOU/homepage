@@ -11,6 +11,24 @@ redirect_from:
 My name is Hou Ningning (侯宁宁). I am a Lecturer at Macquarie University(Sydney, Australia). Before joining Macquarie University, I worked as a Postdoctoral Fellow at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. degree in 2021 from PolyU under the supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications (BUPT) in 2017. <br/>
 Feel free to contact me at [ningning.hou@mq.edu.au].
 
+I am looking for self-motivated PhD students, research staffs in all levels to work on exciting research projects related to LPWANs, edge computing, wireless networking, security and privacy. If you are interested in any of these or other research topics, please feel free to contact me.
+
+Scholarships
+======
+------
+-- Successful applicants will receive the tax-free scholarship of about $28,579 per annum (2021 rate) PLUS free tuition fee of 3 years for a PhD, or 2 years for Master Research (MRes).
+
+-- A PhD student enrolled in an overseas university can apply for the [cotutelle PhD program (联合培养双学位)](https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/global-research-training/global-phd-programs) at Macquarie. A successful applicant can receive scholarship with the same rate of about $28,579 per annum (2021 rate) for 1-2 years. After graduation, the student can be awarded PhD degrees from both the overseas home university and Macquarie University respectively. 
+
+-- An applicant from China can also apply for CSC (Chinese Scholarship Council) scholarship. If granted, Macquaire covers tuition fee (about $45k+/year) and both CSC and Macquarie will provide stipend ($28,579 per annum) for the entire program.
+
+-- A PhD student could receive the funds of up to AU$7.5k for attending international conferences (~$5000 from university and ~$2500 from department) during the program.
+
+Eligibility
+======
+------
+For admission to the PhD program, an international applicant needs an overall score of 6.5 in IELTS, or overall 83 in TOEFL iBT, or overall 58 in PTE. This requirement is waived if you have obtained a Bachelor or Master degree from an English-speaking country, e.g., Canada, USA, UK, New Zealand, Australia etc.
+
 
 
 Research Interests
