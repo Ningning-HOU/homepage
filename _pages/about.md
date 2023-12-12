@@ -23,7 +23,7 @@ Scholarships
 -- An applicant from China can also apply for CSC (Chinese Scholarship Council) scholarship. If granted, Macquaire covers tuition fee ($45k per year) and both CSC and Macquarie will provide stipend ($28,579 per annum) for the entire program. Both CSC visiting students and research fellows are also welcome！
 
 
--- A PhD student could receive the funds of up to AU$7.5k for attending international conferences ($5000 from university and $2500 from department) during the program.
+-- A PhD student could receive the funds of up to $7.5k for attending international conferences ($5000 from university and $2500 from department) during the program.
 
 Eligibility
 ======
