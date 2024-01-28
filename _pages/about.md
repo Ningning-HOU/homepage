@@ -20,10 +20,10 @@ Scholarships
 
 -- A PhD student enrolled in an overseas university can apply for the [cotutelle PhD program (联合培养双学位)](https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/global-research-training/global-phd-programs) at Macquarie. A successful applicant can receive scholarship with the same rate of about $35,000 per annum (2024 rate) for 1-2 years. After graduation, the student can be awarded PhD degrees from both the overseas home university and Macquarie University respectively. 
 
--- An applicant from China can also apply for CSC (Chinese Scholarship Council) scholarship. If granted, Macquaire covers tuition fee ( $45k+ per year) and both CSC and Macquarie will provide stipend ( $35,000 per annum) for the entire program. Both CSC visiting students and research fellows are also welcome！
+-- An applicant from China can also apply for CSC (Chinese Scholarship Council) scholarship. If granted, Macquaire covers tuition fee (45k AUD per year) and both CSC and Macquarie will provide stipend (35,000 AUD per annum) for the entire program. Both CSC visiting students and research fellows are also welcome！
 
 
--- A PhD student could receive up to $7.5k for attending international conferences ( $5000 from the university and $2500 from the department) during the program.
+-- A Ph.D. student could receive up to $7.5k for attending international conferences (5000 AUD from the university and 2500 AUD from the department) during the program.
 
 Eligibility
 ======
@@ -122,10 +122,10 @@ Professional Services
 ------
 Reviewer of conferences: IEEE INFOCOM 2019~2022, SenSys 2019~2022, IoTDI 2021 <br/>
 Reviewer of journals: ACM ToN, ToSN, TWC; IEEE TMC, TDSC; EURASIP <br/>
-TPC member of conferences: ICPADS 2022~2023, MSN 2023 <br/>
+TPC member of conferences: ICPADS 2022~2023, MSN 2023, ICDCS 2024 <br/>
 
 Selected Awards
-======
+====== 
 ------
 [People’s Choice Award](/homepage/files/3MT.pdf) for the [Three Minute Thesis (3MT) Competition](https://www.polyu.edu.hk/feng/publications/vibrant/issue-2/3-minute-thesis-competition/) (2021) <br/>
 PolyU Annual Research Day (First prize in 2018, Second prize in 2019) <br/>
