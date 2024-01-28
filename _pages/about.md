@@ -18,17 +18,17 @@ Scholarships
 ------
 -- Successful applicants will receive the tax-free scholarship of about $28,579 per annum (2021 rate) PLUS free tuition fee of 3 years for a PhD, or 2 years for Master Research (MRes).
 
--- A PhD student enrolled in an overseas university can apply for the [cotutelle PhD program (联合培养双学位)](https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/global-research-training/global-phd-programs) at Macquarie. A successful applicant can receive scholarship with the same rate of about $28,579 per annum (2021 rate) for 1-2 years. After graduation, the student can be awarded PhD degrees from both the overseas home university and Macquarie University respectively. 
+-- A PhD student enrolled in an overseas university can apply for the [cotutelle PhD program (联合培养双学位)](https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/global-research-training/global-phd-programs) at Macquarie. A successful applicant can receive scholarship with the same rate of about $35,000 per annum (2024 rate) for 1-2 years. After graduation, the student can be awarded PhD degrees from both the overseas home university and Macquarie University respectively. 
 
--- An applicant from China can also apply for CSC (Chinese Scholarship Council) scholarship. If granted, Macquaire covers tuition fee ( $45k+ per year) and both CSC and Macquarie will provide stipend ( $28,579 per annum) for the entire program. Both CSC visiting students and research fellows are also welcome！
+-- An applicant from China can also apply for CSC (Chinese Scholarship Council) scholarship. If granted, Macquaire covers tuition fee ( $45k+ per year) and both CSC and Macquarie will provide stipend ( $35,000 per annum) for the entire program. Both CSC visiting students and research fellows are also welcome！
 
 
--- A PhD student could receive the funds of up to $7.5k for attending international conferences ( $5000 from university and $2500 from department) during the program.
+-- A PhD student could receive up to $7.5k for attending international conferences ( $5000 from the university and $2500 from the department) during the program.
 
 Eligibility
 ======
 ------
-For admission to the PhD program, an international applicant needs an overall score of 6.5 in IELTS, or overall 83 in TOEFL iBT, or overall 58 in PTE. This requirement is waived if you have obtained a Bachelor or Master degree from an English-speaking country, e.g., Canada, USA, UK, New Zealand, Australia etc.
+For admission to the PhD program, an international applicant needs an overall score of 6.5 in IELTS, or overall 83 in TOEFL iBT, or overall 58 in PTE. This requirement is waived if you have obtained a Bachelor's or Master's degree from an English-speaking country, e.g., Canada, USA, UK, New Zealand, Australia etc.
 
 
 
@@ -75,9 +75,13 @@ Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, New Orlea
 Journal papers
 ======
 ------
+[**TON**] **"One Shot for All: Quick and Accurate Data Aggregation for LPWANs"** <br/> 
+ **Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Jan. 2024. <br/>
+[[PDF](/homepage/files/CloakLoRa_JPub.pdf)] 
+
 [**TON**] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
  **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Sep. 2022. <br/>
-[[PDF](/homepage/files/CloakLoRa_JPub.pdf)] 
+[[PDF](/homepage/files/LoRa_Aggregation.pdf)] 
 
 [**TOSN**] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”** <br/> 
 **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, ACM Transactions on Sensor Networks (TOSN), Aug. 2022. <br/>
