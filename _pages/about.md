@@ -77,11 +77,11 @@ Journal papers
 ------
 [**TON**] **"One Shot for All: Quick and Accurate Data Aggregation for LPWANs"** <br/> 
  **Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Jan. 2024. <br/>
-[[PDF](/homepage/files/CloakLoRa_JPub.pdf)] 
+[[[PDF](/homepage/files/LoRa_Aggregation.pdf)] 
 
 [**TON**] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
  **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Sep. 2022. <br/>
-[[PDF](/homepage/files/LoRa_Aggregation.pdf)] 
+[[PDF](/homepage/files/CloakLoRa_JPub.pdf)] 
 
 [**TOSN**] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”** <br/> 
 **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, ACM Transactions on Sensor Networks (TOSN), Aug. 2022. <br/>
