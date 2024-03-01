@@ -42,6 +42,10 @@ Low Power Wide Area Networks(LPWANs), Internet-of-Things, Wireless Sensing and N
 Conference papers
 ======
 ------
+[[MobiCom'24](https://sigmobile.org/mobicom/24/)] **“Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels”** <br/>
+Shiming Yu, Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, Washington, D.C., USA， 2-6 Oct 2023. <br/>
+[[PDF](/homepage/files/MobiCom_24_XGate_camera_ready.pdf)]
+
 [[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
 Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, Mo Li, In ACM MobiCom, Madrid, Spain, 2-6 Oct 2023. <br/>
 [[PDF](/homepage/files/XCopy_Boosting_Weak_Links_for_Reliable_LoRa_Communication.pdf)]
