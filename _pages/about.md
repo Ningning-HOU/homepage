@@ -43,7 +43,7 @@ Conference papers
 ======
 ------
 [[MobiCom'24](https://sigmobile.org/mobicom/24/)] **“Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels”** <br/>
-Shiming Yu, Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, Washington, D.C., USA， 2-6 Oct 2023. <br/>
+Shiming Yu, Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, Washington, D.C., USA，2-6 Oct 2024. <br/>
 [[PDF](/homepage/files/MobiCom_24_XGate_camera_ready.pdf)]
 
 [[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
