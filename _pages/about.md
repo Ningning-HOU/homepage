@@ -11,7 +11,7 @@ redirect_from:
 My name is Hou Ningning (侯宁宁). I am a Lecturer (Assistant Prof) at Macquarie University(Sydney, Australia). Before joining Macquarie University, I worked as a Postdoctoral Fellow at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. degree in 2021 from PolyU under the supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications (BUPT) in 2017. <br/>
 Feel free to contact me at [ningning.hou@mq.edu.au].
 
-I am looking for self-motivated PhD students, research staffs in all levels to work on exciting research projects related to LPWANs, edge computing, wireless networking, security and privacy. If you are interested in any of these or other research topics, please feel free to contact me.
+I am looking for self-motivated PhD students, research staffs in all levels to work on exciting research projects related to Artificial Intelligence of Things (AIoT), LPWANs, edge computing, wireless networking, security and privacy. If you are interested in any of these or other research topics, please feel free to contact me.
 
 Scholarships
 ======
@@ -35,7 +35,7 @@ For admission to the PhD program, an international applicant needs an overall sc
 Research Interests
 ======
 ------
-Low Power Wide Area Networks(LPWANs), Internet-of-Things, Wireless Sensing and Networking, and Wireless Security
+Low Power Wide Area Networks(LPWANs), Artificial Intelligence of Things (AIoT), Wireless Sensing and Networking, and Wireless Security
 
 
 
@@ -79,6 +79,9 @@ Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, New Orlea
 Journal papers
 ======
 ------
+[**TON**] **"Hylink: Towards High Throughput LPWANs with LoRa Compatible Communication"** <br/>
+Xianjin Xia, Qianwu Chen, **Hou, Ningning**, Yuanqing Zheng, Tao Gu, IEEE/ACM Transactions on Networking (TON), Mar. 2024. <br/>
+
 [**TON**] **"One Shot for All: Quick and Accurate Data Aggregation for LPWANs"** <br/> 
  **Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Jan. 2024. <br/>
 [[[PDF](/homepage/files/LoRa_Aggregation.pdf)] 
@@ -125,8 +128,8 @@ Professional Services
 ======
 ------
 Reviewer of conferences: IEEE INFOCOM 2019~2022, SenSys 2019~2022, IoTDI 2021 <br/>
-Reviewer of journals: ACM ToN, ToSN, TWC; IEEE TMC, TDSC; EURASIP <br/>
-TPC member of conferences: ICPADS 2022~2023, MSN 2023, ICDCS 2024 <br/>
+Reviewer of journals: ACM ToN, ToSN, TWC; IEEE TMC, TDSC, TCOM; EURASIP <br/>
+TPC member of conferences: ICPADS 2022~2023, MSN 2023, ICDCS 2024, UIC 2024 <br/>
 
 Selected Awards
 ====== 
