@@ -80,7 +80,7 @@ Journal papers
 ======
 ------
 [**TON**] **"Hylink: Towards High Throughput LPWANs with LoRa Compatible Communication"** <br/>
-Xianjin Xia, Qianwu Chen, **Hou, Ningning**, Yuanqing Zheng, Tao Gu, IEEE/ACM Transactions on Networking (TON), Mar. 2024. <br/>
+Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, Tao Gu, IEEE/ACM Transactions on Networking (TON), Mar. 2024. <br/>
 
 [**TON**] **"One Shot for All: Quick and Accurate Data Aggregation for LPWANs"** <br/> 
  **Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Jan. 2024. <br/>
