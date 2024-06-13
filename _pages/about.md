@@ -11,16 +11,16 @@ redirect_from:
 My name is Hou Ningning (侯宁宁). I am a Lecturer (Assistant Prof) at Macquarie University(Sydney, Australia). Before joining Macquarie University, I worked as a Postdoctoral Fellow at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. degree in 2021 from PolyU under the supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications (BUPT) in 2017. <br/>
 Feel free to contact me at [ningning.hou@mq.edu.au].
 
-I am looking for self-motivated PhD students, research staffs in all levels to work on exciting research projects related to Artificial Intelligence of Things (AIoT), LPWANs, edge computing, wireless networking, security and privacy. If you are interested in any of these or other research topics, please feel free to contact me.
+I am looking for self-motivated PhD students, and research staff in all levels to work on exciting research projects related to Artificial Intelligence of Things (AIoT), LPWANs, edge computing, wireless networking, security and privacy. If you are interested in any of these or other research topics, please feel free to contact me.
 
 Scholarships
 ======
 ------
--- Successful applicants will receive the tax-free scholarship of about $35，000 per annum (2021 rate) PLUS free tuition fee of 3 years for a PhD, or 2 years for Master Research (MRes).
+-- Successful applicants will receive a tax-free scholarship of about $38，500 per annum PLUS a free tuition fee of 3 years for a PhD, or 2 years for Master Research (MRes).
 
--- A PhD student enrolled in an overseas university can apply for the [cotutelle PhD program (联合培养双学位)](https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/global-research-training/global-phd-programs) at Macquarie. A successful applicant can receive scholarship with the same rate of about $35,000 per annum (2024 rate) for 1-2 years. After graduation, the student can be awarded PhD degrees from both the overseas home university and Macquarie University respectively. 
+-- A PhD student enrolled in an overseas university can apply for the [cotutelle PhD program (联合培养双学位)](https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/global-research-training/global-phd-programs) at Macquarie. A successful applicant can receive a scholarship with the same rate of about $38,500 per annum (2024 rate) for 1-2 years. After graduation, the student can be awarded PhD degrees from the overseas home university and Macquarie University. 
 
--- An applicant from China can also apply for CSC (Chinese Scholarship Council) scholarship. If granted, Macquaire covers tuition fee (45k AUD per year) and both CSC and Macquarie will provide stipend (35,000 AUD per annum) for the entire program. Both CSC visiting students and research fellows are also welcome！
+-- An applicant from China can also apply for CSC (Chinese Scholarship Council) scholarship. If granted, Macquaire covers tuition fees (45k AUD per year) and both CSC and Macquarie will provide a stipend (38,500 AUD per annum) for the entire program. Both CSC visiting students and research fellows are also welcome！
 
 
 -- A Ph.D. student could receive up to $7.5k for attending international conferences (5000 AUD from the university and 2500 AUD from the department) during the program.
@@ -28,7 +28,7 @@ Scholarships
 Eligibility
 ======
 ------
-For admission to the PhD program, an international applicant needs an overall score of 6.5 in IELTS, or overall 83 in TOEFL iBT, or overall 58 in PTE. This requirement is waived if you have obtained a Bachelor's or Master's degree from an English-speaking country, e.g., Canada, USA, UK, New Zealand, Australia etc.
+For admission to the PhD program, an international applicant needs an overall score of 6.5 in IELTS, or overall 83 in TOEFL iBT, or overall 58 in PTE. 
 
 
 
@@ -116,20 +116,19 @@ Project
 Explore [[here!](/homepage/files/Smart_Coffee_Robot.mp4)]
 
 
-Teaching Experience
+Teaching
 ======
 ------
-Teaching Assistant, COMP4334 Principles and Practice of Internet Security, 2020 Fall <br/>
-Teaching Assistant, COMP5327 Wireless Networking and Mobile Computing, 2020 Spring <br/>
-Teaching Assistant, COMP5311 Internet Infrastructure and Protocols, 2019 Fall <br/>
-Teaching Assistant, COMP1011 Programming Fundamentals, 2019 Spring <br/>
+Lecturer, COMP8293 IoT Communication Networks and Security, 2024 Semester 1 <br/>
+
 
 Professional Services
 ======
 ------
-Reviewer of conferences: IEEE INFOCOM 2019~2022, SenSys 2019~2022, IoTDI 2021 <br/>
-Reviewer of journals: ACM ToN, ToSN, TWC; IEEE TMC, TDSC, TCOM; EURASIP <br/>
+Reviewer of conferences: IEEE INFOCOM 2019~2022, ACM SenSys 2019~2022, IEEE/ACM IoTDI 2021 <br/>
+Reviewer of journals: IEEE/ACM TON; ACM TOSN; IEEE TWC，TMC, TDSC, TCOM; EURASIP <br/>
 TPC member of conferences: ICPADS 2022~2023, MSN 2023, ICDCS 2024, UIC 2024 <br/>
+Program Chairs: Publicity chair of ICPADS 2024
 
 Selected Awards
 ====== 
