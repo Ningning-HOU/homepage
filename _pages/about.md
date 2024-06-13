@@ -133,7 +133,7 @@ Lecturer, COMP8293 IoT Communication Networks and Security, 2024 Semester 1 <br/
 Professional Services
 ======
 ------
-Reviewer of conferences: IEEE INFOCOM 2019~2022, ACM SenSys 2019~2022, IEEE/ACM IoTDI 2021 <br/>
+Reviewer of conferences: IEEE INFOCOM 2019-2022, ACM SenSys 2019-2022, IEEE/ACM IoTDI 2021 <br/>
 Reviewer of journals: IEEE/ACM TON; ACM TOSN; IEEE TWC，TMC, TDSC, TCOM; EURASIP <br/>
 TPC member of conferences: IEEE ICPADS 2022~2023, MSN 2023, ICDCS 2024, UIC 2024 <br/>
 Program Chairs: Publicity chair of IEEE ICPADS 2024
