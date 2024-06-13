@@ -23,7 +23,7 @@ Scholarships
 -- An applicant from China can also apply for CSC (Chinese Scholarship Council) scholarship. If granted, Macquaire covers tuition fees (45k AUD per year) and both CSC and Macquarie will provide a stipend (38,500 AUD per annum) for the entire program. Both CSC visiting students and research fellows are also welcome！
 
 
--- A Ph.D. student could receive up to $7.5k for attending international conferences (5000 AUD from the university and 2500 AUD from the department) during the program.
+-- A Ph.D. student could receive up to $7.5k for attending international conferences (5,000 AUD from the university and 2,500 AUD from the department) during the program.
 
 Eligibility
 ======
@@ -109,6 +109,14 @@ Demo
 **Ningning Hou**, Yuanqing Zheng, In IEEE INFOCOM, Beijing, China, Apr. 2020. <br/>
 [[PDF](/homepage/files/Demo_Abstract_CLoRa-A_Covert_Channel_over_LoRa_PHY.pdf)]
 
+
+Funds
+======
+------
+**Macquarie University Research Acceleration Scheme**, AUD 50K. <br/> 
+“Bridging the Digital Divide: Reshaping Aged Care with Long-Range Integrated Sensing and Communication Technology”
+
+
 Project
 ======
 ------
@@ -127,13 +135,14 @@ Professional Services
 ------
 Reviewer of conferences: IEEE INFOCOM 2019~2022, ACM SenSys 2019~2022, IEEE/ACM IoTDI 2021 <br/>
 Reviewer of journals: IEEE/ACM TON; ACM TOSN; IEEE TWC，TMC, TDSC, TCOM; EURASIP <br/>
-TPC member of conferences: ICPADS 2022~2023, MSN 2023, ICDCS 2024, UIC 2024 <br/>
-Program Chairs: Publicity chair of ICPADS 2024
+TPC member of conferences: IEEE ICPADS 2022~2023, MSN 2023, ICDCS 2024, UIC 2024 <br/>
+Program Chairs: Publicity chair of IEEE ICPADS 2024
 
 Selected Awards
 ====== 
 ------
 [People’s Choice Award](/homepage/files/3MT.pdf) for the [Three Minute Thesis (3MT) Competition](https://www.polyu.edu.hk/feng/publications/vibrant/issue-2/3-minute-thesis-competition/) (2021) <br/>
+IEEE INFOCOM student travel grant (2021) <br/>
 PolyU Annual Research Day (First prize in 2018, Second prize in 2019) <br/>
 National Scholarship for Encouragement (2014-2016) <br/>
 The Xingda Scholarship (2014-2016) <br/>
