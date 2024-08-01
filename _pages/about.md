@@ -16,7 +16,9 @@ I am looking for self-motivated PhD students, and research staff in all levels t
 Scholarships
 ======
 ------
--- Successful applicants will receive a tax-free scholarship of about $38，500 per annum PLUS a free tuition fee of 3 years for a PhD, or 2 years for Master Research (MRes).
+-- Successful applicants will receive a tax-free scholarship of about $38，500 per annum PLUS a free tuition fee of 3 years for a PhD.
+
+-- 2 years for Master Research (MRes) may also get a living allowance from project money. Outstanding students with a Bachelor's degree can apply for MRes year-2 directly.
 
 -- A PhD student enrolled in an overseas university can apply for the [cotutelle PhD program (联合培养双学位)](https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/global-research-training/global-phd-programs) at Macquarie. A successful applicant can receive a scholarship with the same rate of about $38,500 per annum (2024 rate) for 1-2 years. After graduation, the student can be awarded PhD degrees from the overseas home university and Macquarie University. 
 
