@@ -155,5 +155,5 @@ IEEE INFOCOM student travel grant (2021) <br/>
 PolyU Annual Research Day (First prize in 2018, Second prize in 2019) <br/>
 National Scholarship for Encouragement (2014-2016) <br/>
 The Xingda Scholarship (2014-2016) <br/>
-Outstanding Graduates & Dissertation Award of Beijing University of Posts and Telecommunications (2017, top 5/%) <br/>
+Outstanding Graduates & Dissertation Award of Beijing University of Posts and Telecommunications (2017, top 5%) <br/>
 
