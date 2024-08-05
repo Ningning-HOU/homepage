@@ -140,17 +140,20 @@ Professional Services
 ======
 ------
 Reviewer of conferences: IEEE INFOCOM 2019~2022, ACM SenSys 2019~2022, IEEE/ACM IoTDI 2021 <br/>
-Reviewer of journals: IEEE/ACM TON; ACM TOSN; IEEE TWC，TMC, TDSC, TCOM; EURASIP <br/>
-TPC member of conferences: IEEE ICPADS 2022~2023, MSN 2023, ICDCS 2024, UIC 2024 <br/>
-Program Chairs: Publicity chair of IEEE ICPADS 2024
+Reviewer of journals: IEEE/ACM TON; ACM TOSN; IEEE TWC，TMC, TDSC, TCOM, TNSE; EURASIP <br/>
+TPC member of conferences: IEEE ICPADS 2022~2023, MSN 2023~2024, ICDCS 2024, UIC 2024 <br/>
+Conference Program Chairs: Publicity chair of IEEE ICPADS 2024 <br/>
+Journal Guest Editor: electronics - Ubiquitous Computing and Mobile Computing (Special Issue)<br/>
+Journal Guest Editor: Drones - Drone Communication, Networking, and Trajectory Control in Urban Environments (Special Issue) <br/>
+
 
 Selected Awards
 ====== 
 ------
-[People’s Choice Award](/homepage/files/3MT.pdf) for the [Three Minute Thesis (3MT) Competition](https://www.polyu.edu.hk/feng/publications/vibrant/issue-2/3-minute-thesis-competition/) (2021) <br/>
+[People’s Choice Award](/homepage/files/3MT.pdf) for the **"[Three Minute Thesis (3MT) Competition]"**(https://www.polyu.edu.hk/feng/publications/vibrant/issue-2/3-minute-thesis-competition/) (2021) <br/>
 IEEE INFOCOM student travel grant (2021) <br/>
 PolyU Annual Research Day (First prize in 2018, Second prize in 2019) <br/>
 National Scholarship for Encouragement (2014-2016) <br/>
 The Xingda Scholarship (2014-2016) <br/>
-Outstanding Graduates & Dissertation Award of Beijing University of Posts and Telecommunications (2017) <br/>
+Outstanding Graduates & Dissertation Award of Beijing University of Posts and Telecommunications (2017, top 5/%) <br/>
 
