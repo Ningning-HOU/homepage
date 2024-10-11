@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 My name is Hou Ningning. I am a Lecturer (Assistant Prof) at Macquarie University(Sydney, Australia). Before joining Macquarie University, I worked as a Postdoctoral Fellow at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. degree in 2021 from PolyU under the supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications (BUPT) in 2017. <br/>
-Feel free to contact me at [ningning.hou@mq.edu.au].
+Feel free to contact me at [ningning.hou@mq.edu.au]. Detailed CV is [[Here](/homepage/files/CV2410)].
 
 I am looking for self-motivated PhD students, and research staff in all levels to work on exciting research projects related to Artificial Intelligence of Things (AIoT), LPWANs, edge computing, wireless networking, security, and privacy. If you are interested in any of these or other research topics, please feel free to contact me.
 
@@ -48,10 +48,10 @@ Conference papers
 ------
 [[SenSys'24](https://sensys.acm.org/2024/)] **“FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways”** **（Best paper candidate）**<br/>
 Shiming Yu, Xianjin Xia, Ziyue Zhang, **Ningning Hou**, Yuanqing Zheng, In ACM SenSys, Hangzhou, China, 4-7 Nov 2024. <br/>
-[[PDF](/homepage/files/FDLoRa_SenSys_24__Camera_ready.pdf)]
+[[PDF](/homepage/files/FDLoRa_SenSys_24_Camera_ready.pdf)]
 
 [[MobiCom'24](https://sigmobile.org/mobicom/24/)] **“Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels”** <br/>
-Shiming Yu, Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, Washington, D.C., USA，2-6 Oct 2024. <br/>
+Shiming Yu, Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, Washington, D.C., USA, 2-6 Oct 2024. <br/>
 [[PDF](/homepage/files/MobiCom_24_XGate_camera_ready.pdf)]
 
 [[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
