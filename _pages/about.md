@@ -46,7 +46,7 @@ Low Power Wide Area Networks(LPWANs), Artificial Intelligence of Things (AIoT), 
 Conference papers
 ======
 ------
-[[SenSys'24](https://sensys.acm.org/2024/)] **“FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways”** **（Best paper candidate）**<br/>
+[[SenSys'24](https://sensys.acm.org/2024/)] **“FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways”** <br/>
 Shiming Yu, Xianjin Xia, Ziyue Zhang, **Ningning Hou**, Yuanqing Zheng, In ACM SenSys, Hangzhou, China, 4-7 Nov 2024. <br/>
 [[PDF](/homepage/files/FDLoRa_SenSys_24_Camera_ready.pdf)]
 
