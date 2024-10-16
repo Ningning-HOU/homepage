@@ -145,7 +145,7 @@ Professional Services
 ------
 Reviewer of conferences: IEEE INFOCOM 2019-2022, ACM SenSys 2019-2022, IEEE/ACM IoTDI 2021 <br/>
 Reviewer of journals: IEEE/ACM TON; ACM TOSN; IEEE TWC，TMC, TDSC, TCOM, TNSE; EURASIP <br/>
-TPC member of conferences: IEEE ICPADS 2022-2023, MSN 2023-2024, ICDCS 2024, UIC 2024 <br/>
+TPC member of conferences: IEEE ICPADS 2022-2023, MSN 2023-2024, ICDCS 2024 <br/>
 Conference Program Chairs: Publicity chair of IEEE ICPADS 2024 <br/>
 Journal Guest Editor: electronics - Ubiquitous Computing and Mobile Computing (Special Issue)<br/>
 Journal Guest Editor: Drones - Drone Communication, Networking, and Trajectory Control in Urban Environments (Special Issue) <br/>
