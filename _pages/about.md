@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Hou Ningning. I am a Lecturer (Assistant Prof) at Macquarie University(Sydney, Australia). Before joining Macquarie University, I worked as a Postdoctoral Fellow at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. degree in 2021 from PolyU under the supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications (BUPT) in 2017. <br/>
+My name is Hou Ningning. I am a Lecturer (Assistant Prof) at Macquarie University(Sydney, Australia). Before joining Macquarie University, I worked as a Postdoctoral Fellow at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. from PolyU under the supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications (BUPT). <br/>
 Feel free to contact me at [ningning.hou@mq.edu.au]. Detailed CV is [[Here](/homepage/files/CV-Ningning Hou-2410.pdf)].
 
-I am looking for self-motivated PhD students, and research staff in all levels to work on exciting research projects related to Artificial Intelligence of Things (AIoT), LPWANs, edge computing, wireless networking, security, and privacy. If you are interested in any of these or other research topics, please feel free to contact me.
+I am looking for self-motivated PhD students, and research staff at all levels to work on exciting research projects related to Artificial Intelligence of Things (AIoT), LPWANs, edge computing, wireless networking, security, and privacy. If you are interested in any of these or other research topics, please feel free to contact me.
 
 Scholarships
 ======
@@ -39,8 +39,9 @@ For admission to the PhD program, an international applicant needs an overall sc
 Research Interests
 ======
 ------
-Low Power Wide Area Networks(LPWANs), Artificial Intelligence of Things (AIoT), Wireless Sensing and Networking, and Wireless Security
+Low Power Wide Area Networks(LPWANs), Artificial Intelligence of Things (AIoT), Wireless Computing and Networking, and Wireless Security. <br/>
 
+Also interested in collaborations and discussions on ISAC, Space-air-ground Integrated Networks, LLMs+CPS, Drones and Robotics. Please drop me an email if you are interested in working together.
 
 
 Conference papers
@@ -107,7 +108,7 @@ Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, ACM Transactions on Senso
 [[PDF](/homepage/files/PCube_JPub.pdf)] 
 
 [**TOSN**] **“Jamming of LoRa PHY and Countermeasure”** <br/>
-**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, submitted to ACM Transactions on Sensor Networks (TOSN), Feb. 2023. <br/>
+**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, ACM Transactions on Sensor Networks (TOSN), Feb. 2023. <br/>
 [[PDF](/homepage/files/rewrite_Jamming_TOSN.pdf)] 
 
 Demo
@@ -121,6 +122,9 @@ Demo
 Funds
 ======
 ------
+**ARC Linkage Projects** Amount: 749,991.00 AUD, Year funded: 2025-2027 <br/>
+"Reliable and Efficient Massive Long Range Connectivity"
+
 **Macquarie University Research Acceleration Scheme**, AUD 50K. <br/> 
 “Bridging the Digital Divide: Reshaping Aged Care with Long-Range Integrated Sensing and Communication Technology”
 
