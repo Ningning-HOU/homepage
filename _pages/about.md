@@ -125,7 +125,7 @@ Funds
 **ARC Linkage Projects** Amount: 749,991.00 AUD, Year funded: 2025-2027 <br/>
 "Reliable and Efficient Massive Long Range Connectivity"
 
-**Macquarie University Research Acceleration Scheme**, AUD 50K. <br/> 
+**Macquarie University Research Acceleration Scheme**, AUD 50,000. <br/> 
 “Bridging the Digital Divide: Reshaping Aged Care with Long-Range Integrated Sensing and Communication Technology”
 
 
