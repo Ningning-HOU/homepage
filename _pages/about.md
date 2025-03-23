@@ -49,7 +49,7 @@ Conference papers
 ------
 [[SenSys'25](https://sensys.acm.org/2025/)] **“{MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa Reception in Urban Environments”** <br/>
 **Ningning Hou**, Yifeng Wang, Shiming Yu, Yuanqing Zheng, Tao Gu. In ACM SenSys, Irvine, LA, USA, 6-9 May 2025. <br/>
-[[PDF](/homepage/files/MoLoRa_SenSys_2025_camera ready.pdf)]
+[[PDF](/homepage/files/MobiCom_25_HydraNet_camera_ready.pdf)]
 
 [[MobiCom'25](https://sigmobile.org/mobicom/25/)] **“From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs”** <br/>
 Ruonan Li, Ziyue Zhang, Xianjin Xia, **Ningning Hou**, Changwen Chai, Shiming Yu, Yuanqing Zheng, Tao Gu, In ACM MobiCom, Hong Kong, China, 4-8 Nov 2025. <br/>
