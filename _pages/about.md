@@ -52,7 +52,7 @@ Conference papers
 [[PDF](/homepage/files/MobiCom_25_HydraNet_camera_ready.pdf)]
 
 [[MobiCom'25](https://sigmobile.org/mobicom/25/)] **“From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs”** <br/>
-Ruonan Li, Ziyue Zhang, Xianjin Xia, **Ningning Hou**, Changwen Chai, Shiming Yu, Yuanqing Zheng, Tao Gu, In ACM MobiCom, Hong Kong, China, 4-8 Nov 2025. <br/>
+Ruonan Li, Ziyue Zhang, Xianjin Xia, **Ningning Hou**, Changwen Chai, Shiming Yu, Yuanqing Zheng, Tao Gu. In ACM MobiCom, Hong Kong, China, 4-8 Nov 2025. <br/>
 [[PDF](/homepage/files/MobiCom_25_HydraNet_camera_ready.pdf)]
 
 [[SenSys'24](https://sensys.acm.org/2024/)] **“FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways”** <br/>
@@ -60,36 +60,36 @@ Shiming Yu, Xianjin Xia, Ziyue Zhang, **Ningning Hou**, Yuanqing Zheng, In ACM S
 [[PDF](/homepage/files/FDLoRa_SenSys_24_Camera_ready.pdf)]
 
 [[MobiCom'24](https://sigmobile.org/mobicom/24/)] **“Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels”** <br/>
-Shiming Yu, Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, Washington, D.C., USA, 2-6 Oct 2024. <br/>
+Shiming Yu, Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu. In ACM MobiCom, Washington, D.C., USA, 2-6 Oct 2024. <br/>
 [[PDF](/homepage/files/MobiCom_24_XGate_camera_ready.pdf)]
 
 [[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
-Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, Mo Li, In ACM MobiCom, Madrid, Spain, 2-6 Oct 2023. <br/>
+Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, Mo Li. In ACM MobiCom, Madrid, Spain, 2-6 Oct 2023. <br/>
 [[PDF](/homepage/files/XCopy_Boosting_Weak_Links_for_Reliable_LoRa_Communication.pdf)]
 
 [[INFOCOM'23](https://infocom2023.ieee-infocom.org/)] **“One Shot for All: Quick and Accurate Data Aggregation for LPWANs”** <br/> 
-**Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng, In IEEE INFOCOM, New York, United States, 17-20 May 2023. <br/>
+**Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng. In IEEE INFOCOM, New York, United States, 17-20 May 2023. <br/>
 [[PDF](/homepage/files/LoRa_Aggregation_camera_ready.pdf)]
 
 [[SenSys'22](https://sensys.acm.org/2022/)] **“HyLink: Towards High Throughput LPWANs with
 LoRa Compatible Communication”** **（Best paper candidate）**<br/>
-Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, In ACM SenSys, Boston, United States, 6-9 Nov 2022. <br/>
+Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng. In ACM SenSys, Boston, United States, 6-9 Nov 2022. <br/>
 [[PDF](/homepage/files/HyLink_SenSys_22__Camera_ready_.pdf)]
 
 [[INFOCOM'22](https://infocom2022.ieee-infocom.org/)] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”** <br/> 
-**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, In IEEE INFOCOM, Virtual Conference, 2-5 May 2022. <br/>
+**Ningning Hou**, Xianjin Xia, Yuanqing Zheng. In IEEE INFOCOM, Virtual Conference, 2-5 May 2022. <br/>
 [[PDF](/homepage/files/Infocom__2022_camera_ready_Adobe.pdf)] [[Presentation Video](/homepage/files/MALoRa-22M.mp4)]
 
 [[MobiCom'21](https://www.sigmobile.org/mobicom/2021/)] **“PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities”** <br/>
-Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, In ACM MobiCom, New Orleans, United States, March 28 - April 1, 2022. <br/>
+Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu. In ACM MobiCom, New Orleans, United States, March 28 - April 1, 2022. <br/>
 [[PDF](/homepage/files/LoRa_MobiCom2021__Camera_ready_.pdf)] [[1-min Pitch](/homepage/files/PCube-1m-pitch.mp4)]
 
 [[INFOCOM'21](https://infocom2021.ieee-infocom.org/)] **“Jamming of LoRa PHY and Countermeasure”** <br/>
-**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, In IEEE INFOCOM, Virtual Conference, 10-13 May 2021. <br/>
+**Ningning Hou**, Xianjin Xia, Yuanqing Zheng. In IEEE INFOCOM, Virtual Conference, 10-13 May 2021. <br/>
 [[PDF](/homepage/files/Jamming_ready.pdf)] [[Presentation Video](/homepage/files/INFOCOM-21-Jamming-small.mp4)]
 
 [[ICNP'20](https://icnp20.cs.ucr.edu/)] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
- **Ningning Hou**,Yuanqing Zheng, In IEEE ICNP, Madrid, Spain, 13-16 Oct 2020. Acceptance Rate:16.8% (31/184)<br/>
+ **Ningning Hou**,Yuanqing Zheng. In IEEE ICNP, Madrid, Spain, 13-16 Oct 2020. Acceptance Rate:16.8% (31/184)<br/>
 [[PDF](/homepage/files/ICNP_camera_ready.pdf)] [[Presentation Video](/homepage/files/ICNP-CloakLoRa.mp4)]
 
 
@@ -97,33 +97,33 @@ Journal papers
 ======
 ------
 [**TON**] **"Hylink: Towards High Throughput LPWANs with LoRa Compatible Communication"** <br/>
-Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, Tao Gu, IEEE/ACM Transactions on Networking (TON), Mar. 2024. <br/>
+Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, Tao Gu. IEEE/ACM Transactions on Networking (TON), Mar. 2024. <br/>
 
 [**TON**] **"One Shot for All: Quick and Accurate Data Aggregation for LPWANs"** <br/> 
- **Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Jan. 2024. <br/>
+ **Ningning Hou**, Xianjin Xia, Yifeng Wang, Yuanqing Zheng. IEEE/ACM Transactions on Networking (TON), Jan. 2024. <br/>
 [[[PDF](/homepage/files/LoRa_Aggregation.pdf)] 
 
 [**TON**] **"CloakLoRa: A Covert Channel over LoRa PHY"** <br/> 
- **Ningning Hou**, Xianjin Xia, Yuanqing Zheng, IEEE/ACM Transactions on Networking (TON), Sep. 2022. <br/>
+ **Ningning Hou**, Xianjin Xia, Yuanqing Zheng. IEEE/ACM Transactions on Networking (TON), Sep. 2022. <br/>
 [[PDF](/homepage/files/CloakLoRa_JPub.pdf)] 
 
 [**TOSN**] **“Don't Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities”** <br/> 
-**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, ACM Transactions on Sensor Networks (TOSN), Aug. 2022. <br/>
+**Ningning Hou**, Xianjin Xia, Yuanqing Zheng. ACM Transactions on Sensor Networks (TOSN), Aug. 2022. <br/>
 [[PDF](/homepage/files/MALoRa_JPub.pdf)]
 
 [**TOSN**] **“PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities”** <br/>
-Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu, ACM Transactions on Sensor Networks (TOSN), Jun. 2022. <br/>
+Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu. ACM Transactions on Sensor Networks (TOSN), Jun. 2022. <br/>
 [[PDF](/homepage/files/PCube_JPub.pdf)] 
 
 [**TOSN**] **“Jamming of LoRa PHY and Countermeasure”** <br/>
-**Ningning Hou**, Xianjin Xia, Yuanqing Zheng, ACM Transactions on Sensor Networks (TOSN), Feb. 2023. <br/>
+**Ningning Hou**, Xianjin Xia, Yuanqing Zheng. ACM Transactions on Sensor Networks (TOSN), Feb. 2023. <br/>
 [[PDF](/homepage/files/rewrite_Jamming_TOSN.pdf)] 
 
 Demo
 ======
 ------
 [[INFOCOM'20](https://infocom2021.ieee-infocom.org/)] **"CLoRa: A Covert Channel over LoRa PHY"**
-**Ningning Hou**, Yuanqing Zheng, In IEEE INFOCOM, Beijing, China, Apr. 2020. <br/>
+**Ningning Hou**, Yuanqing Zheng. In IEEE INFOCOM, Beijing, China, Apr. 2020. <br/>
 [[PDF](/homepage/files/Demo_Abstract_CLoRa-A_Covert_Channel_over_LoRa_PHY.pdf)]
 
 
