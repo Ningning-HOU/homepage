@@ -49,7 +49,7 @@ Also interested in collaborations and discussions on ISAC, Space-air-ground Inte
 Conference papers
 ======
 ------
-[[SenSys'25](https://sensys.acm.org/2025/)] **“{MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa Reception in Urban Environments”** <br/>
+[[SenSys'25](https://sensys.acm.org/2025/)] **“MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa Reception in Urban Environments”** <br/>
 **Ningning Hou**, Yifeng Wang, Shiming Yu, Yuanqing Zheng, Tao Gu. In ACM SenSys, Irvine, LA, USA, 6-9 May 2025. <br/>
 [[PDF](/homepage/files/MobiCom_25_HydraNet_camera_ready.pdf)]
 
@@ -159,7 +159,7 @@ Professional Services
 ------
 Reviewer of conferences: IEEE INFOCOM 2019-2022, ACM SenSys 2019-2022, IEEE/ACM IoTDI 2021 <br/>
 Reviewer of journals: IEEE/ACM TON; ACM TOSN; IEEE TWC，TMC, TDSC, TCOM, TNSE; EURASIP <br/>
-TPC member of conferences: IEEE ICPADS 2022-2023, MSN 2023-2024, ICDCS 2024 <br/>
+TPC member of conferences: IEEE ICPADS 2022-2023, MSN 2023-2024, ICDCS 2024,BodySys 2025 <br/>
 Conference Program Chairs: Publicity chair of IEEE ICPADS 2024 <br/>
 Journal Guest Editor: electronics - Ubiquitous Computing and Mobile Computing (Special Issue)<br/>
 Journal Guest Editor: Drones - Drone Communication, Networking, and Trajectory Control in Urban Environments (Special Issue) <br/>
