@@ -19,7 +19,7 @@ News
 ======
 ------
 <ul>
-  <li>**[2025/05]** Invited as the TPC of [BodySys 2025 @ ACM UbiComp (https://www.eventcreate.com/e/bodysys25)]  — submissions are welcome! </li>
+  <li>**[2025/05]** Invited as the TPC of [BodySys 2025 @ ACM UbiComp](https://www.eventcreate.com/e/bodysys25)  — submissions are welcome! </li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>  
