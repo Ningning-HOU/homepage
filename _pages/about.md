@@ -11,25 +11,23 @@ redirect_from:
 My name is Hou Ningning. I am a Lecturer (Assistant Prof) at Macquarie University (Sydney, Australia). Before joining Macquarie University, I worked as a Postdoctoral Fellow at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. from PolyU under the supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications (BUPT). <br/>
 Feel free to contact me at [ningning.hou@mq.edu.au]. Detailed CV is [[Here](/homepage/files/CV-Ningning Hou-2410.pdf)].
 
-I am looking for self-motivated PhD students, and research staff at all levels to work on exciting research projects related to Artificial Intelligence of Things (AIoT), LPWANs, edge computing, wireless networking, security, and privacy. If you are interested in any of these or other research topics, please feel free to contact me.
+I am looking for self-motivated PhD students and research staff at all levels to work on exciting research projects related to Artificial Intelligence of Things (AIoT), LPWANs, edge computing, wireless networking, security, and privacy. If you are interested in any of these or other research topics, please feel free to contact me.
 
-Please check out our exciting [Internet of Things (IoT) program](https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology-in-internet-of-things) and study with us.
 
 News
 ======
 ------
-<ul>
-  <li>**[2025/05]** Invited as the TPC of [BodySys 2025 @ ACM UbiComp](https://www.eventcreate.com/e/bodysys25)  — submissions are welcome! </li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
+-First item **[2025/05]** Invited as a TPC member of [BodySys @ ACM UbiComp 2025](https://www.eventcreate.com/e/bodysys25) — submissions are welcome!
+-Second item **[2025/05]** Invited as a Demo TPC member @ [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/)
+-Third item **[2025/04]** Serve as a member of [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/) Artifact Evaluation Commitee.
+
 
 
 
 Scholarships
 ======
 ------
--- Successful applicants will receive a tax-free scholarship of about $38，500 per annum PLUS a free tuition fee of 3 years for a PhD.
+-- Successful applicants will receive a tax-free scholarship of about $38，500 per annum, PLUS a free tuition fee of 3 years for a PhD.
 
 -- Onshore students can apply for Road to Research Scholarship for MRes of about $38，500 per annum.
 
