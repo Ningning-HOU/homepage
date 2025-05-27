@@ -17,9 +17,9 @@ I am looking for self-motivated PhD students and research staff at all levels to
 News
 ======
 ------
-- First item **[2025/05]** Invited as a TPC member of [BodySys @ ACM UbiComp 2025](https://www.eventcreate.com/e/bodysys25) — submissions are welcome!
-- Second item **[2025/05]** Invited as a Demo TPC member @ [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/)
-- Third item **[2025/04]** Serve as a member of [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/) Artifact Evaluation Commitee.
+- **[2025/05]** Invited as a TPC member of [BodySys @ ACM UbiComp 2025](https://www.eventcreate.com/e/bodysys25) — submissions are welcome!
+- **[2025/05]** Invited as a Demo TPC member @ [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/)
+- **[2025/04]** Serve as a member of [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/) Artifact Evaluation Commitee.
 
 
 
