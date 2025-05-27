@@ -13,7 +13,18 @@ Feel free to contact me at [ningning.hou@mq.edu.au]. Detailed CV is [[Here](/hom
 
 I am looking for self-motivated PhD students, and research staff at all levels to work on exciting research projects related to Artificial Intelligence of Things (AIoT), LPWANs, edge computing, wireless networking, security, and privacy. If you are interested in any of these or other research topics, please feel free to contact me.
 
- Please check out our exciting [Internet of Things (IoT) program](https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology-in-internet-of-things) and study with us
+Please check out our exciting [Internet of Things (IoT) program](https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology-in-internet-of-things) and study with us.
+
+News
+======
+------
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+
 
 Scholarships
 ======
