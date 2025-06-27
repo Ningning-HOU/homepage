@@ -17,6 +17,7 @@ I am looking for self-motivated PhD students and research staff at all levels to
 News
 ======
 ------
+- **[2025/06]** Invited as a TPC member of [**INFOCOM 2026**] — submissions are welcome!
 - **[2025/06]** Invited as a TPC member of [**SenSys 2026**](https://sensys.acm.org/2026/) — submissions are welcome!
 - **[2025/05]** Invited as a TPC member of [**BodySys @ ACM UbiComp 2025**](https://www.eventcreate.com/e/bodysys25) — submissions are welcome!
 - **[2025/05]** Invited as a Demo TPC member @ [**MobiCom 2025**](https://www.sigmobile.org/mobicom/2025/)
