@@ -30,13 +30,13 @@ News
 Scholarships
 ======
 ------
--- Successful applicants will receive a tax-free scholarship of about $38，500 per annum, PLUS a free tuition fee of 3 years for a PhD.
+-- Successful applicants will receive a tax-free [scholarship](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities/scholarship-search/international-scholarship-round) of about $39,700 per annum, PLUS a free tuition fee of 3 years for a PhD, and a free tuition fee of 1 year for MRes (Master by Research) students.
 
--- Onshore students can apply for Road to Research Scholarship for MRes of about $38，500 per annum.
+-- Onshore students can apply for Road to Research Scholarship for MRes of about $39,700 per annum.
 
 -- 2 years for Master Research (MRes) may also get a living allowance from project money. Outstanding students with a Bachelor's degree can apply for MRes year-2 directly.
 
--- A PhD student enrolled in an overseas university can apply for the [cotutelle PhD program (联合培养双学位)](https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/global-research-training/global-phd-programs) at Macquarie. A successful applicant can receive a scholarship with the same rate of about $38,500 per annum (2024 rate) for 1-2 years. After graduation, the student can be awarded PhD degrees from the overseas home university and Macquarie University. 
+-- A PhD student enrolled in an overseas university can apply for the [cotutelle PhD program (联合培养双学位)](https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/global-research-training/global-phd-programs) at Macquarie. A successful applicant can receive a scholarship with the same rate of about $39,700 per annum (2024 rate) for 1-2 years. After graduation, the student can be awarded PhD degrees from the overseas home university and Macquarie University. 
 
 -- An applicant from China can also apply for CSC (Chinese Scholarship Council) scholarship. If granted, Macquaire covers tuition fees (45k AUD per year) and both CSC and Macquarie will provide a stipend (38,500 AUD per annum) for the entire program. Both CSC visiting students and research fellows are also welcome！
 
