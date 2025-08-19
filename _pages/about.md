@@ -110,6 +110,12 @@ Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu. In ACM MobiCom, New Orlea
 Journal papers
 ======
 ------
+[**TMC**] **"FDLoRa: ScalingDownlinkConcurrentTransmissionswithFullduplexLoRaGateways"**  <br/>
+Shiming Yu, Xianjin Xia, Ziyue Zhang, **Ningning Hou**, Yuanqing Zheng. IEEE Transactions on Mobile Computing (TMC), May. 2025. <br/>
+
+[**TON**] **"XGate: ScalingLoRaCommunicationstoMassiveLogicalChannels"** <br/>
+Shiming Yu, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. IEEE/ACM Transactions on Networking (TON), Apr. 2025. <br/>
+
 [**TON**] **"Hylink: Towards High Throughput LPWANs with LoRa Compatible Communication"** <br/>
 Xianjin Xia, Qianwu Chen, **Ningning Hou**, Yuanqing Zheng, Tao Gu. IEEE/ACM Transactions on Networking (TON), Mar. 2024. <br/>
 
