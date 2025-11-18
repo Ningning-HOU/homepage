@@ -61,6 +61,10 @@ Also interested in collaborations and discussions on ISAC, Space-air-ground Inte
 Conference papers
 ======
 ------
+[[IMC'25](https://conferences.sigcomm.org/imc/2025/)] **“Satellite IoT in Practice: A First Measurement Study on Network, Availability, Performance, and Costs”** <br/>
+Wenchang Chai, Jinhong Liu, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, **Ningning Hou**, Qiang Yang, Weiwei Chen, Tao Gu. In ACM Internet Measurement Conference, Madison, Wisconsin, USA, Oct. 2025.<br/>
+[[PDF](/homepage/files/)]
+
 [[SenSys'25](https://sensys.acm.org/2025/)] **“MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa Reception in Urban Environments”** <br/>
 **Ningning Hou**, Yifeng Wang, Shiming Yu, Yuanqing Zheng, Tao Gu. In ACM SenSys, Irvine, LA, USA, 6-9 May 2025. <br/>
 [[PDF](/homepage/files/MobiCom_25_HydraNet_camera_ready.pdf)]
