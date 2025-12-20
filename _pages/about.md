@@ -185,6 +185,8 @@ TPC member of conferences: IEEE ICPADS 2022-2023, MSN 2023-2024, ICDCS 2024,Body
 Conference Program Chairs: Publicity chair of IEEE ICPADS 2024 <br/>
 Journal Guest Editor: electronics - Ubiquitous Computing and Mobile Computing (Special Issue)<br/>
 Journal Guest Editor: Drones - Drone Communication, Networking, and Trajectory Control in Urban Environments (Special Issue) <br/>
+TPC of PerCOM Demos 2026
+
 
 
 Selected Awards
