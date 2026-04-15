@@ -63,7 +63,7 @@ Conference papers
 ======
 ------
 [[SusTech'26](https://ieee-sustech.org/)] **“Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring”** <br/>
-Endrowednes Kuantama, Alice James, Avishkar Seth, **Ningning Hou**, Melanie Bishop. In IEEE Conference on Technologies for Sustainability, Orange County, California, USA, April. 2025.<br/>
+Endrowednes Kuantama, Alice James, Avishkar Seth, **Ningning Hou**, Melanie Bishop. In IEEE Conference on Technologies for Sustainability, Orange County, California, USA, Apr. 2025.<br/>
 
 [[IMC'25](https://conferences.sigcomm.org/imc/2025/)] **“Satellite IoT in Practice: A First Measurement Study on Network, Availability, Performance, and Costs”** <br/>
 Wenchang Chai, Jinhong Liu, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, **Ningning Hou**, Qiang Yang, Weiwei Chen, Tao Gu. In ACM Internet Measurement Conference, Madison, Wisconsin, USA, Oct. 2025.<br/>
