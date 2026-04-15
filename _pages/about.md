@@ -1,4 +1,4 @@
----
+<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/8310be09-32af-4532-b5fa-64a1b7f167b4" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/6d50a91f-f504-47d9-8c2b-7d34e73b815a" />---
 permalink: /
 title: "Welcome!"
 excerpt: "About me"
@@ -17,6 +17,7 @@ I am looking for self-motivated PhD students and research staff at all levels to
 News
 ======
 ------
+- **[2026/04]** Invited as a TPC member for [**INFOCOM 2027**]
 - **[2025/06]** Invited as a TPC member for [**INFOCOM 2026**](https://infocom2026.ieee-infocom.org/group/81) — submissions are welcome!
 - **[2025/06]** Invited as a TPC member for [**SenSys 2026**](https://sensys.acm.org/2026/) — submissions are welcome!
 - **[2025/05]** Invited as a TPC member for [**BodySys @ ACM UbiComp 2025**](https://www.eventcreate.com/e/bodysys25) — submissions are welcome!
@@ -61,6 +62,9 @@ Also interested in collaborations and discussions on ISAC, Space-air-ground Inte
 Conference papers
 ======
 ------
+[[SusTech'26](https://ieee-sustech.org/)] **“Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring”** <br/>
+Endrowednes Kuantama, Alice James, Avishkar Seth, **Ningning Hou**, Melanie Bishop. In IEEE Conference on Technologies for Sustainability, Orange County, California, USA, April. 2025.<br/>
+
 [[IMC'25](https://conferences.sigcomm.org/imc/2025/)] **“Satellite IoT in Practice: A First Measurement Study on Network, Availability, Performance, and Costs”** <br/>
 Wenchang Chai, Jinhong Liu, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, **Ningning Hou**, Qiang Yang, Weiwei Chen, Tao Gu. In ACM Internet Measurement Conference, Madison, Wisconsin, USA, Oct. 2025.<br/>
 [[PDF](/homepage/files/[IMC'25]_Satellite_IoT)]
@@ -114,6 +118,9 @@ Xianjin Xia, **Ningning Hou**, Yuanqing Zheng, Tao Gu. In ACM MobiCom, New Orlea
 Journal papers
 ======
 ------
+[**TMC**] **"TagEcho: Empowering Ambient LoRa Backscatter Tags with Adaptive Modulation"**  <br/>
+Lu Wang, Songping Yang, Hao Wang, Zhimeng Yin, Guan Gan, **Ningning Hou** (Corresponding author), Yueling Che. IEEE Transactions on Mobile Computing (TMC), April. 2026. <br/>
+
 [**TMC**] **"FDLoRa: ScalingDownlinkConcurrentTransmissionswithFullduplexLoRaGateways"**  <br/>
 Shiming Yu, Xianjin Xia, Ziyue Zhang, **Ningning Hou**, Yuanqing Zheng. IEEE Transactions on Mobile Computing (TMC), May. 2025. <br/>
 
