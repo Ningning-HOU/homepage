@@ -17,7 +17,7 @@ I am looking for self-motivated PhD students and research staff at all levels to
 News
 ======
 ------
-- **[2026/04]** Invited as a TPC member for [**INFOCOM 2027**]
+- **[2026/04]** Invited as a TPC member for **INFOCOM 2027**
 - **[2025/06]** Invited as a TPC member for [**INFOCOM 2026**](https://infocom2026.ieee-infocom.org/group/81) — submissions are welcome!
 - **[2025/06]** Invited as a TPC member for [**SenSys 2026**](https://sensys.acm.org/2026/) — submissions are welcome!
 - **[2025/05]** Invited as a TPC member for [**BodySys @ ACM UbiComp 2025**](https://www.eventcreate.com/e/bodysys25) — submissions are welcome!
@@ -63,7 +63,7 @@ Conference papers
 ======
 ------
 [[SusTech'26](https://ieee-sustech.org/)] **“Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring”** <br/>
-Endrowednes Kuantama, Alice James, Avishkar Seth, **Ningning Hou**, Melanie Bishop. In IEEE Conference on Technologies for Sustainability, Orange County, California, USA, Apr. 2025.<br/>
+Endrowednes Kuantama, Alice James, Avishkar Seth, **Ningning Hou**, Melanie Bishop. In IEEE Conference on Technologies for Sustainability, Orange County, California, USA, Apr. 2026.<br/>
 
 [[IMC'25](https://conferences.sigcomm.org/imc/2025/)] **“Satellite IoT in Practice: A First Measurement Study on Network, Availability, Performance, and Costs”** <br/>
 Wenchang Chai, Jinhong Liu, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, **Ningning Hou**, Qiang Yang, Weiwei Chen, Tao Gu. In ACM Internet Measurement Conference, Madison, Wisconsin, USA, Oct. 2025.<br/>
