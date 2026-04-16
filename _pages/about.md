@@ -1,12 +1,4 @@
-<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/8310be09-32af-4532-b5fa-64a1b7f167b4" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/6d50a91f-f504-47d9-8c2b-7d34e73b815a" />---
-permalink: /
-title: "Welcome!"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 My name is Hou Ningning. I am a Lecturer (Assistant Prof) at Macquarie University (Sydney, Australia). Before joining Macquarie University, I worked as a Postdoctoral Fellow at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. from PolyU under the supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Prior to this, I received my B.Eng. degree from Beijing University of Posts and Telecommunications (BUPT). <br/>
 Feel free to contact me at [ningning.hou@mq.edu.au]. Detailed CV is [[Here](/homepage/files/CV-Ningning Hou-2410.pdf)].
