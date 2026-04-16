@@ -62,7 +62,7 @@ Also interested in collaborations and discussions on ISAC, Space-air-ground Inte
 Conference papers
 ======
 ------
-[[SusTech'26](https://ieee-sustech.org/)] **“Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring”** <br/>
+ **“Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring”** <br/>
 Endrowednes Kuantama, Alice James, Avishkar Seth, **Ningning Hou**, Melanie Bishop. In IEEE Conference on Technologies for Sustainability, Orange County, California, USA, Apr. 2026.<br/>
 
 [[IMC'25](https://conferences.sigcomm.org/imc/2025/)] **“Satellite IoT in Practice: A First Measurement Study on Network, Availability, Performance, and Costs”** <br/>
