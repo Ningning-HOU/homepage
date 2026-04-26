@@ -118,7 +118,7 @@ Journal papers
 ======
 ------
 [**TMC**] **"TagEcho: Empowering Ambient LoRa Backscatter Tags with Adaptive Modulation"**  <br/>
-Lu Wang, Songping Yang, Hao Wang, Zhimeng Yin, Guan Gan, **Ningning Hou** (Corresponding author), Yueling Che. IEEE Transactions on Mobile Computing (TMC), April. 2026. <br/>
+Lu Wang, Songping Yang, Hao Wang, Zhimeng Yin, Guan Gan, **Ningning Hou**, Yueling Che. IEEE Transactions on Mobile Computing (TMC), April. 2026. <br/>
 
 [**TMC**] **"FDLoRa: ScalingDownlinkConcurrentTransmissionswithFullduplexLoRaGateways"**  <br/>
 Shiming Yu, Xianjin Xia, Ziyue Zhang, **Ningning Hou**, Yuanqing Zheng. IEEE Transactions on Mobile Computing (TMC), May. 2025. <br/>
