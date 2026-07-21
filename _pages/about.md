@@ -55,7 +55,7 @@ Research Interests
 ------
 Low Power Wide Area Networks(LPWANs), Artificial Intelligence of Things (AIoT), Wireless Computing and Networking, and Wireless Security. <br/>
 
-Also interested in collaborations and discussions on ISAC, Space-air-ground Integrated Networks, LLMs+CPS, Drones and Robotics. Please drop me an email if you are interested in working together.
+Also interested in collaborations and discussions on **LLMs+CPS, Drones and Robotics, and Embodied AI**. Please drop me an email if you are interested in working together.
 
 
 Conference papers
