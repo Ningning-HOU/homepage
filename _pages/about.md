@@ -16,7 +16,9 @@ I am looking for self-motivated PhD students and research staff at all levels to
 News
 ======
 ------
+- **[2026/08]** One paper accepted by **IEEE ICNP 2026**
 - **[2026/08]** Invited as a TPC member for **MobiCom 2027**
+- **[2026/06]** Invited as a TPC member for **SenSys 2027**
 - **[2026/04]** Invited as a TPC member for **INFOCOM 2027**
 - **[2025/06]** Invited as a TPC member for [**INFOCOM 2026**](https://infocom2026.ieee-infocom.org/group/81) — submissions are welcome!
 - **[2025/06]** Invited as a TPC member for [**SenSys 2026**](https://sensys.acm.org/2026/) — submissions are welcome!
